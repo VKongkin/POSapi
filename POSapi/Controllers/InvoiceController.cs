@@ -134,7 +134,13 @@ namespace POSapi.Controllers
             try
             {
                 var lastID = _context.Invoices.OrderByDescending(i => i.InvoiceId).FirstOrDefault();
-                int id = lastID.InvoiceId;
+                int id = 0;
+                if (lastID != null)
+                {
+                    id = lastID.InvoiceId;
+                }
+         
+                
 
                 var invoiceID = IDGeneratorService.IDGenerator("INV-", id, ("000000"));
 
