@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GT7xjuV0WmpJSKuamDPrx0pavE2hh5DE257FYlrdMno=",
+  "Hash": "6t46uHUdxGvoP3BSJhhW/mY6fpoCEMyTV4AbJci1vAQ=",
   "Source": "POSapi",
   "BasePath": "_content/POSapi",
   "Mode": "Default",
@@ -153,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Product\\29fabce3-ffb2-4cd3-b1a6-74727f9f3a88.jpg"
     },
     {
+      "Identity": "F:\\Web Form App ASP.NET\\POSapi\\POSapi\\wwwroot\\Uploads\\Product\\30b19777-7a4e-4802-abaa-0f5478971f3c.jpg",
+      "SourceId": "POSapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Web Form App ASP.NET\\POSapi\\POSapi\\wwwroot\\",
+      "BasePath": "_content/POSapi",
+      "RelativePath": "Uploads/Product/30b19777-7a4e-4802-abaa-0f5478971f3c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Product\\30b19777-7a4e-4802-abaa-0f5478971f3c.jpg"
+    },
+    {
       "Identity": "F:\\Web Form App ASP.NET\\POSapi\\POSapi\\wwwroot\\Uploads\\Product\\3481ecec-6509-4316-b0d7-308b60a9cbfd.jpg",
       "SourceId": "POSapi",
       "SourceType": "Discovered",
@@ -168,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Product\\3481ecec-6509-4316-b0d7-308b60a9cbfd.jpg"
+    },
+    {
+      "Identity": "F:\\Web Form App ASP.NET\\POSapi\\POSapi\\wwwroot\\Uploads\\Product\\36c815d9-6c6b-4c6e-8203-603e6cdbe4d4.jpg",
+      "SourceId": "POSapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Web Form App ASP.NET\\POSapi\\POSapi\\wwwroot\\",
+      "BasePath": "_content/POSapi",
+      "RelativePath": "Uploads/Product/36c815d9-6c6b-4c6e-8203-603e6cdbe4d4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Product\\36c815d9-6c6b-4c6e-8203-603e6cdbe4d4.jpg"
     },
     {
       "Identity": "F:\\Web Form App ASP.NET\\POSapi\\POSapi\\wwwroot\\Uploads\\Product\\387542d3-d8a0-4b46-bec9-3c65f4a9151a.jpg",
