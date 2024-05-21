@@ -51,5 +51,6 @@ app.UseAuthentication();
 app.UseAuthorization();
 app.UseCors("MyPolicy");
 app.MapControllers();
+app.UseDefaultFiles();
 app.UseStaticFiles();
 app.Run();
