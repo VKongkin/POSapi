@@ -1,0 +1,6 @@
+﻿steps:
+  - name: gcr.io/cloud-builder/docker
+    args: 
+	- build
+	- '--no-cache'
+	- '-t'
